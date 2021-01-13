@@ -1,6 +1,6 @@
 FROM node:14-buster
 
-LABEL version="1.0.0"
+LABEL version="1.0.1"
 
 USER root
 
